@@ -1,2 +1,17 @@
-username: paybekeurekausername123456
-password: 123456paybekeurekapassword123456
+service:
+  auth:
+    username: paybekauthservice
+    password: paybekauthservice12345678
+  notification:
+    username: paybeknotificationservice
+    password: paybeknotificationserviceroot12345678
+  report:
+    username: paybekreportservice
+    password: paybekreportserviceroot12345678
+  registry:
+    username: paybekeurekausername
+    password: paybekeurekaservicepassword12345678
+ 
+  
+  
+ 
