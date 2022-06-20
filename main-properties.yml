@@ -11,6 +11,9 @@ service:
   registry:
     username: paybekeurekausername
     password: paybekeurekaservicepassword12345678
+  gateway:
+    username: paybekgatewayusername
+    password: paybekgatewaypassword12345678
  
   
   
